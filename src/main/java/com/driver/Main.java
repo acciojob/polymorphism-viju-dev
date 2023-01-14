@@ -6,6 +6,7 @@ public class Main {
         System.out.println( P.product(1,2));
         System.out.println(P.product(1,2,3));
         System.out.println(P.product(1,2));
+        
     }
 
     public static class  Product{
